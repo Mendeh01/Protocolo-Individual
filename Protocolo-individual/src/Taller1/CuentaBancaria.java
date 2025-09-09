@@ -19,7 +19,7 @@ public class CuentaBancaria {
         this.saldo = 0.0;
     }
 
-    
+
     public CuentaBancaria(String numeroCuenta, double saldo, String tipoCuenta) {
         this.numeroCuenta = numeroCuenta;
         this.saldo = saldo;
