@@ -1,4 +1,4 @@
 package Taller1;
 
-public class main {
+public class Main {
 }
